@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Moving box</title>
+		<link rel=icon href="https://static1.squarespace.com/static/55fc0004e4b069a519961e2d/t/55fc301ae4b01342ae9212a1/1442590746805/">
+		<style type="text/css">
+			#start {
+				margin: 0 auto 1em;
+				width: 20em;
+				height: 5em;
+				background-color: blue;
+				border-radius: 50%;
+				text-align: center;
+				color: white;
+			}
+
+			#start-text {
+				font-size: 2em;
+				position: relative;
+				top: .7em;
+			}
+
+			#box001{
+				height: 2em;
+				width: 2em;
+				background-color: black;
+				margin: 10% auto 10%;
+			}
+			#rules {
+				text-align: center;
+				font-size: 2em;
+			}
+
+			#score {
+				text-align: center;
+				font-size: 2em;
+			}
+		</style>
+		<script type="text/javascript">
+
+			var x;
+			var pt;
+			var data = new Date();
+			var TI;
+			var TA;
+
+			function fstart(){
+				pt=0;
+				TI = new Date().getTime();
+				document.getElementById("start-text").innerHTML = "Time Running!";
+				document.getElementById("start").style.backgroundColor = "red";
+			} 
+
+			function changePosition(){
+				TA = new Date().getTime();
+				if (TA-TI<10000) {
+					x= Math.random()*10;
+					x= parseInt(x);
+					x=x*10+5;
+					pt++;
+
+					for (var i=0; i<10; i++) {
+						document.getElementById("box001").style.margin = "10% " + x + "% 10%";
+					}
+
+				} else {
+					//show score
+					document.getElementById("score").innerHTML = "Congratulations, you've clicked "+pt+" times.";
+					document.getElementById("start-text").innerHTML = "Try again";
+					document.getElementById("start").style.backgroundColor = "green";
+				}
+				}
+
+		</script>
+	</head>
+	
+	<body>
+		<div  id="box001" onclick="changePosition()" ></div>
+		<div id="start" onclick="fstart()"><p id="start-text">Start</p></div>
+		<p id="rules">Click in the start button then click the black square as much as you can. You'll have 10 sec. Good Luck.</p>
+		<p id="score"></p>
+	</body>
+</html>

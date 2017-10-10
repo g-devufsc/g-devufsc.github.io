@@ -7,64 +7,41 @@
 	<meta charset="utf-8">
 	<style type="text/css">
 		body {
-			/*background-color: rgb(0,85,176); purple*/
-
 			background-image: url("body-bg.gif");
-			/*background-repeat: no-repeat;
-			background-position: right top;*/
 		}
 
 		* {
 			color: white;
-			/*border: 1px solid aqua;*/
 			margin: 0;
 		}
 
 		#left-content {
-			/*float: left;*/
 			margin: 0% 8% 0% 8%;
 			background-color: rgb(0,0,20);
 			padding-bottom: 2%;
 		}
 
-	/*	#right-art {
-			float: right;
-			height: 1000px;
-			width: 100px;
-			border: 10px solid red;
-		}
-*/
 		#cabeçalho {
 			border: 5px solid rgb(0,0,20);
-			/*border-top: 5px solid rgb(114,59,217);
-			border-bottom: 5px solid rgb(114,59,217);*/
-			/*margin: 2% 2% 0 2%*/;
 			padding: 1% 10%;
-
 			background-color: rgb(0,230,176);
 			background-image: url(art.gif);
 			background-position: right center;
 			background-repeat: no-repeat;
-
 		}
 
 		#inner-cabeçalho {
-			/*border: 5px solid white;*/
-			/*border-left: 5px solid blue;
-			border-right: 5px solid blue;*/
 			text-align: left;
 			font-size: 5em;
 			font-family: "Times New Roman", Times, serif;
 		}
 
 		#content {
-			/*margin: 0 30% 0 0;*/
 			font-family: Source Code Pro;
 		}
 
 		#boas-vindas {
 			text-align: center;
-			/*border: 5px solid rgb(114,59,217);*/
 			margin: 2% 20% 0 20%;
 			font-size: 2em;
 			font-family: 'Roboto', sans-serif;
@@ -80,7 +57,6 @@
 		}
 
 		.post {
-			/*border: solid 5px blue;*/
 			margin: 10%;
 		}
 
@@ -94,6 +70,33 @@
 			margin: 0 10%;
 		}
 
+		#nav-ul {
+		    list-style-type: none;
+		    margin: 0;
+		    padding: 0;
+		    overflow: hidden;
+		    background-color: #333;
+		    font-family: 'Roboto', sans-serif;
+		    font-size: 2em;
+		}
+
+		.nav-li {
+		    float: left;
+		    width: 50%;
+		}
+
+		.nav-li .nav-a {
+		    display: block;
+		    color: white;
+		    text-align: center;
+		    padding: 14px 16px;
+		    text-decoration: none;
+		}
+
+		/* Change the link color to #111 (black) on hover */
+		.nav-li .nav-a:hover {
+		    background-color: #111;
+		}
 
 	</style>
 </head>
@@ -101,6 +104,14 @@
 <div id="left-content">
 	<div id="cabeçalho"><div id=inner-cabeçalho><h1>G-Dev</h1></div></div>
 	<div id="content">
+		
+		<div id="navigation">
+			<ul id="nav-ul">
+				<li class="nav-li"><a class="nav-a" href="index.html">Home</a></li>
+				<li class="nav-li"><a class="nav-a" href="games.html">Games</a></li>
+			</ul>
+		</div>
+
 		<br>
 			<div id="boas-vindas">
 				<h2>Bem vindo!</h2>
@@ -164,6 +175,17 @@
 			</div>
 		</div>
 
+		<div class="post">
+			<div class="post-title">
+				<h3>Perspectivas Para o Futuro</h3>
+			</div>
+			<div class="post-content">
+				<p>Seria incrível ter alunos de vários cursos, e desenvolver jogos voltados para a sociedade, como educativos e/ou que 
+				valorizem a cultura e geografia regional. Com a evolução do grupo, poderiam ser também organizados eventos como minicursos e
+				visitas técnicas.</p>
+			</div>
+		</div>
+
 	</div>
 
 	<div id="footer">
@@ -177,18 +199,3 @@
 </div>
 </body>
 </html>
-
-
-<!--Necessidades:
-	Mensagem de Boas vindas
-	Explicação sobre o que o grupo é
-	Explicação sobre como o grupo funciona
-	Horário e Local
-	Posts sobre os assuntos estudados
-	Barra na esquerda com arte
-
-	<li>Liberdade: No G-Dev você e todos tem total liberdade. Pode estudar o que quiser, pode ajudar o coleguinha, pedir ajuda, mas 
-			ninguém é obrigado. Claro que a idéia é sempre ajudarmos um ao outro, e é bom quando estudamos assuntos em comum, mas se você quiser
-			vir para ficar estudando no seu canto, o G-Dev também é para você.</li>
-
--->
