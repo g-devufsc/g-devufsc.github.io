@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FlappyBirdoWebGL.data.unityweb",
+"asmCodeUrl": "FlappyBirdoWebGL.asm.code.unityweb",
+"asmMemoryUrl": "FlappyBirdoWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "FlappyBirdoWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
