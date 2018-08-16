@@ -8,7 +8,7 @@
 			<li>Contato: bphilippinho@live.com</li>
 			<li>Conhecimentos: Python</li>
 			<li>Objetivos: Procuro projetos em python(ou q envolvam python)</li>
-			<li>Experiência: Cursando ccna(redes e afins)</li>
+			<li>Experiência: Cursando ccna (redes e afins).</li>
 		</ul>
 	</div>
 </div>
@@ -36,7 +36,7 @@
 			<li>Contato: cainacc@hotmail.com 48991733714</li>
 			<li>Conhecimentos: Unity, C#, JavaScript, HTML, CSS, Java.</li>
 			<li>Objetivos: Quero aprender Unity, C# e gestão. Além de conhecer o pessoal que curte game dev na UFSC.</li>
-			<li>Experiência: Assisti um monte de videos de Unity e fiz uns exercícios. Quem quiser ver, tá em kkaldas.github.io/portfolio.html</li>
+			<li>Experiência: Assisti um monte de videos de Unity e fiz uns exercícios. Quem quiser ver, tá em [kkaldas.github.io/portfolio.html]</li>
 		</ul>
 	</div>
 </div>
@@ -47,10 +47,10 @@
 	</div>
 	<div class="post-content">
 		<ul>
-			<li>Contato: baiocchi.gabriel@gmail.com</li>
-			<li>Conhecimentos: C, Allegro, Unity Engine, Python</li>
-			<li>Objetivos: Gostaria de aplicar o que já sei no desenvolvimento de jogos e aprender novas ferramentas no percurso.</li>
-			<li>Experiência: Matéria de Programação em Linguagem C do IFSC tendo um jogo de plataforma 2D em Allegro como projeto final, Workshop Presencial de Desenvolvimento de Jogos 2D da Unity Brasil, Criação de scripts em Python para automatizar tarefas, Desenvolvimento de jogos em Unity como hobby, Página do IndieDB: http://www.indiedb.com/members/zkirmisher</li>
+			<li>Contato: baiocchi.gabriel@gmail.com, Telegram: @gbaioc</li>
+			<li>Conhecimentos: C, Java, Python, Git, Godot Engine, Unity Engine</li>
+			<li>Objetivos: Gostaria de aplicar o que já sei no desenvolvimento de jogos e aprender novas ferramentas no percurso, construindo um portfolio de Game Dev.</li>
+			<li>Experiência: Platformer 2D criado em C usando Allegro, Interactive Fiction / Text Adventure em Java, FPH (First Person Horror) 3D na Unity; Workshop de Desenvolvimento de Jogos 2D da Unity Brasil, Diversos experimentos com a Godot Engine, Criação de scripts em Python para automatizar tarefas; GitHub:[https://github.com/baioc], IndieDB:[http://www.indiedb.com/members/zkirmisher]</li>
 		</ul>
 	</div>
 </div>
@@ -63,8 +63,8 @@
 		<ul>
 			<li>Contato: apbiancofriber@gmail.com</li>
 			<li>Conhecimentos: Blender, c++ e unreal. por enquanto ;)</li>
-			<li>Objetivos: Aspiro aprender mais sobre as engines e me aprofundar mais em design</li>
-			<li>Experiência: cursos da Udemy.</li>
+			<li>Objetivos: Aspiro aprender mais sobre as engines e me aprofundar mais em design.</li>
+			<li>Experiência: Cursos da Udemy.</li>
 		</ul>
 	</div>
 </div>
@@ -79,7 +79,7 @@
 			<li>Conhecimentos: Java , C, C#, C++, Unity Engine</li>
 			<li>Objetivos: Estou interessado em aprender sobre modelagem e animação 3D.</li>
 			<li>Experiência: Trabalhei usando C#, e fiz um jogo simples para celular usando unity.
-https://github.com/gdevufsc/AquaDodger</li>
+[https://github.com/gdevufsc/AquaDodger]</li>
 		</ul>
 	</div>
 </div>
@@ -92,7 +92,7 @@ https://github.com/gdevufsc/AquaDodger</li>
 		<ul>
 			<li>Contato: leo_cani@hotmail.com, WhatsApp:11948267048</li>
 			<li>Conhecimentos: Experiência em Unity, Flash e Photoshop</li>
-			<li>Objetivos: Desejo adquirir mais experiência, aprender a usar outras ferramentas e engines e colocar várias idéias que estavam no papel para um jogo funcional</li>
+			<li>Objetivos: Desejo adquirir mais experiência, aprender a usar outras ferramentas e engines e colocar várias idéias que estavam no papel para um jogo funcional.</li>
 			<li>Experiência: Já fiz faculdade de Design de Games pela Anhembi-Morumbi por 1 ano e Meio</li>
 		</ul>
 	</div>
@@ -106,7 +106,7 @@ https://github.com/gdevufsc/AquaDodger</li>
 		<ul>
 			<li>Contato: schmittvictor2011@hotmail.com , whatsapp : (47) 98488 3475</li>
 			<li>Conhecimentos: Unity, pixel art, c#</li>
-			<li>Objetivos: Aprender mais sobre o desenvolvimento de jogos</li>
+			<li>Objetivos: Aprender mais sobre o desenvolvimento de jogos.</li>
 			<li>Experiência: Nenhuma experiencia</li>
 		</ul>
 	</div>
@@ -120,7 +120,7 @@ https://github.com/gdevufsc/AquaDodger</li>
 		<ul>
 			<li>Contato: +5548991503086</li>
 			<li>Conhecimentos: Javascript, Actionscript 2/3, Flash</li>
-			<li>Objetivos: Aprender novas ferramentas como unity, aprender novas técnicas de programação para jogos. Compartilhar o que eu já sei</li>
+			<li>Objetivos: Aprender novas ferramentas como unity, aprender novas técnicas de programação para jogos. Compartilhar o que eu já sei.</li>
 			<li>Experiência: Já desenvolvi pequenos jogos mas não divulguei alguns e outros não mais são acessíveis</li>
 		</ul>
 	</div>
@@ -134,8 +134,8 @@ https://github.com/gdevufsc/AquaDodger</li>
 		<ul>
 			<li>Contato: r.zagre.jr@gmail.com, (32)998161302</li>
 			<li>Conhecimentos: C#</li>
-			<li>Objetivos: Procuro parcerias para desenvolvimento de Apps, games e sites</li>
-			<li>Experiência: sim, mas não ha nenhum exemplo publicado </li>
+			<li>Objetivos: Procuro parcerias para desenvolvimento de Apps, games e sites.</li>
+			<li>Experiência: Sim, mas não há nenhum exemplo publicado.</li>
 		</ul>
 	</div>
 </div>
@@ -148,7 +148,7 @@ https://github.com/gdevufsc/AquaDodger</li>
 		<ul>
 			<li>Contato: arthurhtessaro@gmail.com, Whatsapp (49) 999807045</li>
 			<li>Conhecimentos: Nenhuma, por enquanto</li>
-			<li>Objetivos: Estudar o desenvolvimento de jogos desde o início</li>
+			<li>Objetivos: Estudar o desenvolvimento de jogos desde o início.</li>
 			<li>Experiência: Não.</li>
 		</ul>
 	</div>
@@ -163,7 +163,7 @@ https://github.com/gdevufsc/AquaDodger</li>
 			<li>Contato: matheus041996@gmail.com (47)991175877</li>
 			<li>Conhecimentos: Ilustração digital, design de personagens e cenários, concept arts.</li>
 			<li>Objetivos: Aprimorar os conhecimentos em design e aplicá-los na prática de desenvolvimento de games.</li>
-			<li>Experiência:  </li>
+			<li>Experiência: nan</li>
 		</ul>
 	</div>
 </div>
@@ -176,9 +176,9 @@ https://github.com/gdevufsc/AquaDodger</li>
 		<ul>
 			<li>Contato: maurojosevieirajr@hotmail.com</li>
 			<li>Conhecimentos: Unity Engine e C# (6 meses), Java (2 anos), C++, Unreal Engine (começando a aprender)</li>
-			<li>Objetivos: Encontrar grupos de desenvolvimento com projetos para serem realizados em qualquer plataforma e linguagem. No momento não estou tocando nenhum projeto paralelo, logo estou desposto a ajudar quem eu puder, da maneira que eu puder</li>
+			<li>Objetivos: Encontrar grupos de desenvolvimento com projetos para serem realizados em qualquer plataforma e linguagem. No momento não estou tocando nenhum projeto paralelo, logo estou desposto a ajudar quem eu puder, da maneira que eu puder.</li>
 			<li>Experiência: Segue o link do único projeto que fiz e coloquei no Github, é um RPG Tático feito no Unity 4.6 e foi utilizado como TCC para o curso de Programação de Jogos Digitais que fiz no Senai.
-https://github.com/Terrato/Contestado-RPG</li>
+[https://github.com/Terrato/Contestado-RPG]</li>
 		</ul>
 	</div>
 </div>
@@ -206,7 +206,7 @@ https://github.com/Terrato/Contestado-RPG</li>
 			<li>Contato: (48) 998669369</li>
 			<li>Conhecimentos: JavaScript, illustrator </li>
 			<li>Objetivos: Aprender mais sobre a área do desenvolvimento, pensando em seguir essa carreira no futuro.</li>
-			<li>Experiência: Tive algumas aulas sobre JavaScript no meu curso técnico no IFSC, fiz uns trabalhos no Illustrator</li>
+			<li>Experiência: Tive algumas aulas sobre JavaScript no meu curso técnico no IFSC, fiz uns trabalhos no Illustrator.</li>
 		</ul>
 	</div>
 </div>
@@ -262,7 +262,7 @@ https://github.com/Terrato/Contestado-RPG</li>
 			<li>Contato: https://www.facebook.com/Capel4</li>
 			<li>Conhecimentos: Unity, C#, C++, Java</li>
 			<li>Objetivos: Estou no grupo com o intuito de ajudar o pessoal que está aprendendo.</li>
-			<li>Experiência: Já trabalhei em 2 empresas de jogos(Catnigiri e Big Dog) e estou na terceira (Cafundó Estúdio Criativo) para dar uma olhada no que já fiz é só checar meu linkdn:https://www.linkedin.com/in/gabriel-capeletti-94418792/ </li>
+			<li>Experiência: Já trabalhei em 2 empresas de jogos(Catnigiri e Big Dog) e estou na terceira (Cafundó Estúdio Criativo) para dar uma olhada no que já fiz é só checar meu linkedin:[https://www.linkedin.com/in/gabriel-capeletti-94418792/].</li>
 		</ul>
 	</div>
 </div>
@@ -275,8 +275,8 @@ https://github.com/Terrato/Contestado-RPG</li>
 		<ul>
 			<li>Contato: (48)984139042</li>
 			<li>Conhecimentos: Noção básica de Java e html</li>
-			<li>Objetivos: Aprender sobre desenvolvimento de jogos usado a engine Unity</li>
-			<li>Experiência: Não possuo experiência</li>
+			<li>Objetivos: Aprender sobre desenvolvimento de jogos usado a engine Unity.</li>
+			<li>Experiência: Não possuo experiência.</li>
 		</ul>
 	</div>
 </div>
@@ -303,9 +303,9 @@ https://github.com/Terrato/Contestado-RPG</li>
 		<ul>
 			<li>Contato: (42) 991174068</li>
 			<li>Conhecimentos: Concept Art, Pixel Art, Arte para jogos 2D</li>
-			<li>Objetivos: Estou interessado em refinar minhas habilidades como artista e designer de personagens, ambiente, objetos, etc... Gostaria também de aprender sobre animação para jogos 2D caso exista uma oportunidade</li>
-			<li>Experiência: faco desenho e pintura para projetos particulares, não tenho experiencia profissional, mas estou revisando todo meu conhecimento de desenho para entrar no mercado como artista ao final desse processo.
-tenho algumas peças prontas que estou disposto a mostrar via whatsapp ou email caso seja do seu interesse</li>
+			<li>Objetivos: Estou interessado em refinar minhas habilidades como artista e designer de personagens, ambiente, objetos, etc... Gostaria também de aprender sobre animação para jogos 2D caso exista uma oportunidade.</li>
+			<li>Experiência: Faço desenho e pintura para projetos particulares, não tenho experiencia profissional, mas estou revisando todo meu conhecimento de desenho para entrar no mercado como artista ao final desse processo.
+Tenho algumas peças prontas que estou disposto a mostrar via whatsapp ou email caso seja do seu interesse.</li>
 		</ul>
 	</div>
 </div>
@@ -318,8 +318,8 @@ tenho algumas peças prontas que estou disposto a mostrar via whatsapp ou email 
 		<ul>
 			<li>Contato: (34) 99976-6256</li>
 			<li>Conhecimentos: C#(iniciante), C++(iniciante) , Modelagem 3D (básico), edição e criação de imagens </li>
-			<li>Objetivos: Desejo aprender a criar jogos e ajudar em projetos como hobby </li>
-			<li>Experiência: Apenas pequenos projetos pessoais, no geral, shoot'em up espaciais </li>
+			<li>Objetivos: Desejo aprender a criar jogos e ajudar em projetos como hobby.</li>
+			<li>Experiência: Apenas pequenos projetos pessoais, no geral, shoot'em up espaciais.</li>
 		</ul>
 	</div>
 </div>
@@ -332,7 +332,7 @@ tenho algumas peças prontas que estou disposto a mostrar via whatsapp ou email 
 		<ul>
 			<li>Contato: adonis.cs@bol.com.br - (48) 9-9158-8458</li>
 			<li>Conhecimentos: Cientista Social formado, busco realizar pesquisa de campo em aldeias indígenas e criar Jogos de RPGs sobre estas múltiplas culturas brasileiras</li>
-			<li>Objetivos: Desejo conhecer profissionais da área que possam auxiliar com este projeto pessoal</li>
+			<li>Objetivos: Desejo conhecer profissionais da área que possam auxiliar com este projeto pessoal.</li>
 			<li>Experiência: Possuo experiência como mestre e jogador de RPG D&D 3.5</li>
 		</ul>
 	</div>
@@ -349,7 +349,7 @@ tenho algumas peças prontas que estou disposto a mostrar via whatsapp ou email 
 
 Também um pouco de: Unity, Produção musical e C#.</li>
 			<li>Objetivos: Criar jogos (qualquer plataforma), e melhorar na produção de musica.</li>
-			<li>Experiência:  </li>
+			<li>Experiência: nan</li>
 		</ul>
 	</div>
 </div>
@@ -363,8 +363,8 @@ Também um pouco de: Unity, Produção musical e C#.</li>
 			<li>Contato: fabriciohzzr@gmail.com</li>
 			<li>Conhecimentos: Unity Engine, Unreal Engine, 3ds Max (animação e modelagem), game design, level design (foco de estudos e aptidão).</li>
 			<li>Objetivos: Criação de protótipos de jogos, desenvolver ideias, experiência de trabalho em equipe.</li>
-			<li>Experiência: página pessoal: fabricioroepcke.com 
-experiência com criação 3d, game design e level design</li>
+			<li>Experiência: Página pessoal: [fabricioroepcke.com]
+experiência com criação 3d, game design e level design.</li>
 		</ul>
 	</div>
 </div>
@@ -378,9 +378,9 @@ experiência com criação 3d, game design e level design</li>
 			<li>Contato: 48984532843</li>
 			<li>Conhecimentos: Eu sinceramente não tenho como responder essa pergunta, iniciei a pouco no curso de animação, sei um pouco de muito mas não sei muito de nada, porem acredito na possibilidade de somar no grupo igualmente compensando a falta de técnica em muita motivação e idéias.</li>
 			<li>Objetivos: Meu interesse no grupo é me descobrir como profissional e crescer junto com pessoas que querem se desenvolver, gostaria de trabalhar em equipe e praticar o que eu irei aprender no curso de animação
-Também tenho interesse de aprender um pouco de programação de jogos, principalmente focado em jogos 2D e de plataforma. 
+Também tenho interesse de aprender um pouco de programação de jogos, principalmente focado em jogos 2D e de plataforma.
 </li>
-			<li>Experiência: página pessoal: fabricioroepcke.com experiência com criação 3d, game design e level design</li>
+			<li>Experiência: nan</li>
 		</ul>
 	</div>
 </div>
@@ -393,8 +393,8 @@ Também tenho interesse de aprender um pouco de programação de jogos, principa
 		<ul>
 			<li>Contato: Whatsapp: (48) 98413-9716</li>
 			<li>Conhecimentos: Ilustração Digital, Animação 2D (aprendendo), conhecimento em jogos</li>
-			<li>Objetivos: Gostaria de ganhar experiência trabalhando em equipe, e também em desenvolvimento de arte para jogos que é uma das áreas que pretendo seguir.</li>
-			<li>Experiência: Possuo um DeviantArt, mas este não é muito atualizado/contém só artes mais finalizadas em geral. https://wolfycatty.deviantart.com</li>
+			<li>Objetivos: Gostaria de ganhar experiência trabalhando em equipe, e também em desenvolvimento de arte para jogos que é uma das áreas que pretendo seguir..</li>
+			<li>Experiência: Possuo um DeviantArt, mas este não é muito atualizado/contém só artes mais finalizadas em geral. [https://wolfycatty.deviantart.com]</li>
 		</ul>
 	</div>
 </div>
@@ -439,7 +439,7 @@ Também tenho interesse de aprender um pouco de programação de jogos, principa
 			<li>Experiência: Não fiz nenhum curso de unity e tenho o conhecimento básico das ferramentas. No Game maker eu participei de algumas game jams, mas consegui terminar apenas um jogo, mas ele foi desqualificado. Não tenho muita habilidade  com desenho em pixel art mas me interesso bastante na arte. E no Blender eu gosto de fazer alguns objetos 3d Low Poly, mas apenas por diversão.
 
 Gm48:
-https://gm48.net/game/603/the-nameless-wizzard-tnw</li>
+[https://gm48.net/game/603/the-nameless-wizzard-tnw]</li>
 		</ul>
 	</div>
 </div>
@@ -452,8 +452,8 @@ https://gm48.net/game/603/the-nameless-wizzard-tnw</li>
 		<ul>
 			<li>Contato: (48) 99666-5356</li>
 			<li>Conhecimentos: Unity Engine, C#, C++, C, Java, Allegro</li>
-			<li>Objetivos: Testar protótipos, participar e criar grupos para projetos, compartilhar experiências</li>
-			<li>Experiência: Breve participação na G2E, Desenvolvimento de jogos como hobby e ministramento de curso de jogos com Allegro e C</li>
+			<li>Objetivos: Testar protótipos, participar e criar grupos para projetos, compartilhar experiências.</li>
+			<li>Experiência: Breve participação na G2E, Desenvolvimento de jogos como hobby e ministramento de curso de jogos com Allegro e C.</li>
 		</ul>
 	</div>
 </div>
@@ -467,7 +467,7 @@ https://gm48.net/game/603/the-nameless-wizzard-tnw</li>
 			<li>Contato: lopbecker@hotmail.com, Whatsapp: (55) 99931-4592, fb.com/paulo.eduardo.piceti.becker</li>
 			<li>Conhecimentos: Tenho mais prática na parte de design de personagens, porém ainda preciso melhorar.</li>
 			<li>Objetivos: Quero adquirir conhecimento no desenvolvimento de jogos e ajudar nos projetos como eu puder.</li>
-			<li>Experiência:  </li>
+			<li>Experiência: nan</li>
 		</ul>
 	</div>
 </div>
@@ -481,13 +481,69 @@ https://gm48.net/game/603/the-nameless-wizzard-tnw</li>
 			<li>Contato: rebeca.acco@gmail.com, (48) 99623-0461</li>
 			<li>Conhecimentos: Animação 2D, Motion Graphics, Pintura Digital, Ilustração, Photoshop, Illustrator, Unity, After Effects.</li>
 			<li>Objetivos: Gostaria de aprofundar meus conhecimentos nas engines tanto unity quanto Unreal, aprimorar minhas skills de tech-artist (artista que monta a arte na engine pros programadores usarem prontinho já), gostaria muito de participar de uma gamejam pra pegar XP em games seja qual for e me entrosar com o pessoal da comunidade que eu adoro. <3 Pretendo trabalhar com arte para games fora do país, então preciso de experiências no campo.</li>
-			<li>Experiência: Trabalho com ilustração na área do entretenimento há alguns anos e em 2017 participei da produção de um indiegame cujo projeto não foi finalizado. Ele foi programado pra PC e seria sidescroller. Segue o link da arte e o que foi feito do projeto da minha parte: 
-https://www.behance.net/gallery/49961153/Game-Killer-Imps
+			<li>Experiência: Trabalho com ilustração na área do entretenimento há alguns anos e em 2017 participei da produção de um indiegame cujo projeto não foi finalizado. Ele foi programado pra PC e seria sidescroller. Segue o link da arte e o que foi feito do projeto da minha parte:
+[https://www.behance.net/gallery/49961153/Game-Killer-Imps]
 Tive uma pequena experiência com a unity, pq eu precisei fazer toda a direção de arte, arte, design, personagens e ainda aprender alguma coisa de unity, então não consegui focar na engine como eu queria, além de não conseguir ver muito sobre isso com o grupo (o que acabou sendo o fator que acabou com a empresa, ngm conseguia se ver). Queria poder estar presente com as pessoas pra aprender por imersão, e não só ter que ver tutoriais sozinha (boring/não é empolgante nem motivador).
 
-Trabalho atualmente como freelancer e fixa com ilustração, Design e motion graphics, mas meu coração está nos games e estou lutando pra achar um lugarzinho pra mim nesse meio. 
+Trabalho atualmente como freelancer e fixa com ilustração, Design e motion graphics, mas meu coração está nos games e estou lutando pra achar um lugarzinho pra mim nesse meio.
 
 Valeu!</li>
+		</ul>
+	</div>
+</div>
+
+<div class="post">
+	<div class="post-title">
+	<h3>Enzo Coelho Albornoz</h3>
+	</div>
+	<div class="post-content">
+		<ul>
+			<li>Contato: enzocoelhoalbornoz@hotmail.com,WhatsApp (48)9-9811-6887</li>
+			<li>Conhecimentos: Iniciante em Java</li>
+			<li>Objetivos: Desenvolver jogos direcionados a PC's e Consoles,aprender Java e C++ e C# principalmente.</li>
+			<li>Experiência: Experiência com Java,Blender.</li>
+		</ul>
+	</div>
+</div>
+
+<div class="post">
+	<div class="post-title">
+	<h3>Thiago Moraes Cardoso</h3>
+	</div>
+	<div class="post-content">
+		<ul>
+			<li>Contato: thiagoweve@gmail.com, (11)992935327,facebook.com/thiago.moraes.37</li>
+			<li>Conhecimentos: programas da plataforma adobe, e conhecimento na área do design gráfico, suas teorias e aplicações.</li>
+			<li>Objetivos: procuro experiência na área de desenvolvimento de jogos, a partir do aprendizado de novas ferramentas de criação, além de experiência trabalhando em equipe.</li>
+			<li>Experiência: Não possuo nenhuma experiência com as ferramentas mencionadas acima, somente um conhecimento superficial no Blender e no Unity.</li>
+		</ul>
+	</div>
+</div>
+
+<div class="post">
+	<div class="post-title">
+	<h3>Christian Aurich Zanettini Martins</h3>
+	</div>
+	<div class="post-content">
+		<ul>
+			<li>Contato: https://www.facebook.com/profile.php?id=100009151746567</li>
+			<li>Conhecimentos: Familiarizado com Java, Unity Engine, HTML e CSS</li>
+			<li>Objetivos: Conhecer o pessoal com mesmo interesse que eu por games, aprender coisas novas e participar de projetos.</li>
+			<li>Experiência: Já ajudei a desenvolver uma engine simples e um jogo em Visual Basic, mas faz bastante tempo, e não tenho mais contato com a linguagem. Atualmente tenho feito alguns estudos no Unity e um pouquinho no Unreal, porém nada publicado.</li>
+		</ul>
+	</div>
+</div>
+
+<div class="post">
+	<div class="post-title">
+	<h3>Thaís Schiavinoto</h3>
+	</div>
+	<div class="post-content">
+		<ul>
+			<li>Contato: thaisschiv@gmail.com, Cel.: (16) 991340497</li>
+			<li>Conhecimentos: Formada em Design Gráfico e caloura em Animação, possuo domínio de programas do pacote adobe (Illustrator, Photoshop, Indesign e um pouco de After), experiência em ilustração (digital e tradicional, com foco em ilustração vetorial, pixel art e aquarela), arranho em softwares de modelagem 3D (3D Max e um pouco de Blender) e curto indie games \m/</li>
+			<li>Objetivos: Meu interesse no grupo é aprender um pouco mais sobre game engines simplificadas voltadas para jogos 2D (Game Maker e Unity são as que me passam pela cabeça), fazer contatos na área de desenvolvimento independente e participar da criação de projetos que necessitem de auxílio na parte gráfica, colocando em prática o que posso oferecer e permitindo a criação de um portfólio para a área.</li>
+			<li>Experiência: Trabalhei 5 anos em um escritório de Design, praticando a criação de identidades visuais completas, produção de ilustrações, gerenciamento de sites via wordpress, entre outros, utilizando principalmente ferramentas do pacote adobe anteriormente citadas. É possível checar meu portfólio em: [www.behance.net/TSchiv].</li>
 		</ul>
 	</div>
 </div>
